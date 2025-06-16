@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KARTHIKKAR5
 - 👀 I’m interested in mak
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on project making
 - 📫 How to reach me email karthikkavali03@gmail.com
 - 😄 Pronouns: ...
